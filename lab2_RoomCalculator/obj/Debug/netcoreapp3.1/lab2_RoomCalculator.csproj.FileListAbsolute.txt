@@ -1,0 +1,13 @@
+C:\Users\sheeh\source\repos\lab2_RoomCalculator\lab2_RoomCalculator\obj\Debug\netcoreapp3.1\lab2_RoomCalculator.csprojAssemblyReference.cache
+C:\Users\sheeh\source\repos\lab2_RoomCalculator\lab2_RoomCalculator\obj\Debug\netcoreapp3.1\lab2_RoomCalculator.AssemblyInfoInputs.cache
+C:\Users\sheeh\source\repos\lab2_RoomCalculator\lab2_RoomCalculator\obj\Debug\netcoreapp3.1\lab2_RoomCalculator.AssemblyInfo.cs
+C:\Users\sheeh\source\repos\lab2_RoomCalculator\lab2_RoomCalculator\obj\Debug\netcoreapp3.1\lab2_RoomCalculator.csproj.CoreCompileInputs.cache
+C:\Users\sheeh\source\repos\lab2_RoomCalculator\lab2_RoomCalculator\bin\Debug\netcoreapp3.1\lab2_RoomCalculator.exe
+C:\Users\sheeh\source\repos\lab2_RoomCalculator\lab2_RoomCalculator\bin\Debug\netcoreapp3.1\lab2_RoomCalculator.deps.json
+C:\Users\sheeh\source\repos\lab2_RoomCalculator\lab2_RoomCalculator\bin\Debug\netcoreapp3.1\lab2_RoomCalculator.runtimeconfig.json
+C:\Users\sheeh\source\repos\lab2_RoomCalculator\lab2_RoomCalculator\bin\Debug\netcoreapp3.1\lab2_RoomCalculator.runtimeconfig.dev.json
+C:\Users\sheeh\source\repos\lab2_RoomCalculator\lab2_RoomCalculator\bin\Debug\netcoreapp3.1\lab2_RoomCalculator.dll
+C:\Users\sheeh\source\repos\lab2_RoomCalculator\lab2_RoomCalculator\bin\Debug\netcoreapp3.1\lab2_RoomCalculator.pdb
+C:\Users\sheeh\source\repos\lab2_RoomCalculator\lab2_RoomCalculator\obj\Debug\netcoreapp3.1\lab2_RoomCalculator.dll
+C:\Users\sheeh\source\repos\lab2_RoomCalculator\lab2_RoomCalculator\obj\Debug\netcoreapp3.1\lab2_RoomCalculator.pdb
+C:\Users\sheeh\source\repos\lab2_RoomCalculator\lab2_RoomCalculator\obj\Debug\netcoreapp3.1\lab2_RoomCalculator.genruntimeconfig.cache
