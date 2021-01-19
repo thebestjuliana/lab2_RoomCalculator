@@ -15,32 +15,32 @@ namespace lab2_RoomCalculator
 
 
                 Console.WriteLine("Enter Room Length (in Feet)");
-                string input = Console.ReadLine();
-                double length = double.Parse(input);
+                string lengthInput = Console.ReadLine();
+                double length = double.Parse(lengthInput);
 
                 Console.WriteLine("Enter Room Width (in Feet)");
-                string input2 = Console.ReadLine();
-                double width = double.Parse(input2);
+                string widthInput = Console.ReadLine();
+                double width = double.Parse(widthInput);
 
                 Console.WriteLine("Enter Room Height (in Feet)");
-                string input4 = Console.ReadLine();
-                double height = double.Parse(input2);
+                string heightInput = Console.ReadLine();
+                double height = double.Parse(heightInput);
 
 
                 double area = width * length;
                 Console.WriteLine("Area: " + area + " Feet");
 
-                double perimeter = Math.Pow(width, 2) + Math.Pow(length, 2);
-                Console.WriteLine("Perimeter: " + perimeter + " Feet");
+                double perimeter = width * 2 + length * 2 ;
+                Console.WriteLine("Perimeter: " + perimeter + " Square Feet");
 
-                double volume = width * length * height;
-                Console.WriteLine("Volume: " + volume + " Feet");
+                double volume = area * height;
+                Console.WriteLine("Volume: " + volume + " Cubed Feet");
 
                 Console.WriteLine("Continue? (y/n)");
 
-                string input3 = Console.ReadLine();
+                string input = Console.ReadLine();
                 
-                if (input3 == "y")
+                if (input == "y")
                 {
                     again = false;
                 } else
