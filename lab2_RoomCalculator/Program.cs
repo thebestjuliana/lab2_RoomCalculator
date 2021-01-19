@@ -43,7 +43,8 @@ namespace lab2_RoomCalculator
                 if (input == "y")
                 {
                     again = false;
-                } else
+                } 
+                else
                 {
                     Console.WriteLine("Thank you! Goodbye!");
 
